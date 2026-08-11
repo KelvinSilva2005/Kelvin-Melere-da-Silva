@@ -1,44 +1,47 @@
 # Hi, I'm Kelvin! 👋
 
-I'm a Computer Science student passionate about technology, programming, databases, and software development.
+I'm a **Computer Science student** passionate about technology, programming, databases, and software development.
 
 I'm currently focused on improving my skills and building practical projects that combine programming, data, databases, and artificial intelligence.
 
-🚀 About Me
-🎓 Computer Science student at UNIMATER
-💻 Interested in Software Development, Data Analysis, Databases, and AI
-🐍 Currently working mainly with Python
-🗄️ Experience with PostgreSQL, Neo4j, and database management
-📊 Interested in Data Analysis and Data Visualization
-🌐 Learning and developing projects with Git, GitHub, and web technologies
+## 🚀 About Me
+
+🎓 Computer Science student at **UNIMATER**  
+💻 Interested in **Software Development, Data Analysis, Databases, and AI**  
+🐍 Currently working mainly with **Python**  
+🗄️ Experience with **PostgreSQL, Neo4j, and database management**  
+📊 Interested in **Data Analysis and Data Visualization**  
+🌐 Learning and developing projects with **Git, GitHub, and web technologies**  
 🚗 Car enthusiast in my free time
-🛠️ Technologies & Tools
 
-Languages
+## 🛠️ Technologies & Tools
 
-Python
-SQL
-JavaScript
-HTML & CSS
+### Languages
 
-Databases
+🐍 Python  
+🗃️ SQL  
+🌐 JavaScript  
+📄 HTML & CSS
 
-PostgreSQL
-Neo4j
+### Databases
 
-Tools
+🐘 PostgreSQL  
+🔷 Neo4j
 
-Git & GitHub
-VS Code
-pgAdmin
-Streamlit
-📌 What I'm Working On
+### Tools
+
+🔧 Git & GitHub  
+💻 VS Code  
+🗄️ pgAdmin  
+📊 Streamlit
+
+## 📌 What I'm Working On
 
 I'm constantly working on academic and personal projects to improve my development skills and gain real-world experience.
 
-Currently, I'm especially interested in projects involving databases, data analysis, artificial intelligence, and intelligent systems.
+Currently, I'm especially interested in projects involving **databases, data analysis, artificial intelligence, and intelligent systems**.
 
-📫 Let's Connect
+## 📫 Let's Connect
 
 I'm always interested in learning, collaborating on projects, and connecting with other developers and technology enthusiasts.
 
