@@ -83,15 +83,6 @@ Add featured project cards here as your portfolio grows, e.g.:
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KelvinSilva2005&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinSilva2005&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<br>
-
 ## 📫 Let's Connect
 
 I'm always open to learning, collaborating on projects, and connecting with other developers and technology enthusiasts!
