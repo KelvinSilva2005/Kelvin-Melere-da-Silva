@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Kelvin 👋</h1>
 
 <h3 align="center">Computer Science Student · Software Development · Data & AI Enthusiast</h3>
